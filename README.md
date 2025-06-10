@@ -36,7 +36,7 @@
 
 1.  **Клонуйте репозиторій:**
     ```bash
-    git clone [https://github.com/ВАШ_НІКНЕЙМ/guess-the-number-game.git](https://github.com/ВАШ_НІКНЕЙМ/guess-the-number-game.git)
+    https://github.com/ВАШ_НІКНЕЙМ/guess-the-number-game.git
     ```
     (Замініть `ВАШ_НІКНЕЙМ` на ваш нікнейм на GitHub).
 2.  **Перейдіть до директорії проєкту:**
